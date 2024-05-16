@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Which financial ratio measures a company's ability to meet its short-term debt obligations using its most liquid assets?",
+        "answer": "Current Ratio"
+    },
+    {
+        "question": "What fundamental analysis concept examines a company's sales growth rate over a specific period to assess its business expansion and market competitiveness?",
+        "answer": "Revenue Growth"
+    },
+    {
+        "question": "In fundamental analysis, what term refers to the estimated value of a company's assets, liabilities, and equity at a specific point in time?",
+        "answer": "Book Value"
+    },
+    {
+        "question": "Which financial statement item represents the total amount of money a company earns from selling its products or services?",
+        "answer": "Revenue"
+    },
+    {
+        "question": "What key financial ratio evaluates a company's efficiency in generating profit from its investments in assets, such as inventory and equipment?",
+        "answer": "Return on Assets"
+    },
+    {
+        "question": "In fundamental analysis, what term describes the practice of comparing a company's financial data with that of its industry peers to evaluate its relative performance?",
+        "answer": "Benchmarking"
+    },
+    {
+        "question": "What fundamental analysis approach focuses on identifying undervalued stocks by comparing their intrinsic value with their market price?",
+        "answer": "Value Investing"
+    },
+    {
+        "question": "Which financial metric indicates the proportion of a company's earnings distributed to shareholders in the form of dividends?",
+        "answer": "Dividend Yield"
+    },
+    {
+        "question": "What fundamental analysis technique involves forecasting a company's future financial performance based on historical data, industry trends, and economic indicators?",
+        "answer": "Financial Modeling"
+    },
+    {
+        "question": "What term refers to the process of adjusting a company's financial statements to reflect its true economic performance by removing non-recurring expenses or revenues?",
+        "answer": "Normalization"
+    }
+]

@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  padding: 0px;
+  margin: 0px;
+}
+
+.question {
+  font-weight: 500;
+  color: rgb(18, 39, 75);
+}
+
+.next-ques {
+  color: white;
+  background-color: rgb(228, 43, 62);
+  text-transform: uppercase;
+  vertical-align: middle;
+  border: none;
+  border-radius: 5px;
+  padding: 6px 16px 6px 16px;
+  cursor: pointer;
+}
+
+.next-ques:hover {
+  background-color: #f13246;
+}
+
+.quiz-container {
+  width: 100%;
+  padding: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* border: 1px solid red; */
+}
+
+.f1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+span.char {
+  border: 1px solid black;
+  padding: 8px;
+  margin: 2px;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 3px;
+  background-color: rgba(220, 230, 235, 0.1);
+  border: 1px solid rgb(213, 231, 247);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.clr {
+  color: rgb(255, 144, 29) !important;
+}
+
+.filled {
+  color: white !important;
+  background-color: rgb(44, 77, 146) !important;
+}
+
+.alpha-container {
+  display: flex;
+  margin: 40px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.alpha-container>div {
+  margin: 10px;
+}
+
+span.space {
+  margin: 4px;
+}
+
+.green {
+  border: 1px solid rgb(91, 199, 22) !important;
+  color: rgb(61, 156, 0) !important;
+  background-color: rgb(208, 240, 194) !important;
+
+}
+
+.red {
+  border: 1px solid rgb(234, 111, 112) !important;
+  color: rgb(232, 80, 91) !important;
+  background-color: rgb(249, 207, 210) !important;
+}
+
+.btn {
+  height: 50px;
+  line-height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  text-align: center;
+  margin: 4px;
+  font-weight: 300;
+  font-size: 15px;
+  color: black;
+  border: none;
+  background-color: white;
+  box-shadow: rgb(223, 228, 249) 0px 4px 10px 0px;
+  cursor: pointer;
+}
+
+.containerStyles {
+  height: 30px;
+  width: 50%;
+  padding: 2px;
+  background-color: #e0e0de;
+  border-radius: 50px;
+  margin: 50px;
+}
+
+.fillerStyles {
+  height: 100%;
+  border-radius: inherit;
+  text-align: center;
+  text-wrap: nowrap;
+}
+
+.labelStyles {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  padding: 2px;
+  color: black;
+  font-size: small;
+}
